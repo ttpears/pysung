@@ -6,16 +6,6 @@ This script allows you to control a Samsung TV remotely using Python. It uses th
 
 To use this script, you need to install the following dependencies:
 
-- **samsungtvws**: This library provides a WebSocket client implementation for the Samsung Smart TV WebSocket API. Install it using pip:
-
-# Samsung TV Remote Control
-
-This script allows you to control a Samsung TV remotely using Python. It uses the Samsung Smart TV WebSocket API library to communicate with the TV and perform various operations such as turning the TV on/off, opening apps, and more.
-
-## Installation
-
-To use this script, you need to install the following dependencies:
-
 ```
 pip install wakeonlan samsungtvws termcolor
 ```
