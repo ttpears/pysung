@@ -1,0 +1,21 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore the TV tokens database
+tv-tokens.db
+
+# Ignore TV token files
+tv-token-*
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
